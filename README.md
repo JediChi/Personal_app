@@ -60,9 +60,9 @@ The app is designed to be responsive across various device sizes. It adapts the 
 
 ## Demo
 
-1. You can see a live demo of the app on Appetize.io.
+1. You can see a live demo of the app on Appetize.io/app/453bjb7drz5zuefcxs5ih6ocsm.
 
-2. Set the android version to androiid 12 and above on Appetize.io
+2. Set the android version to android 12 and above on Appetize.io
 
 
 
